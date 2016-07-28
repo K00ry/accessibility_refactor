@@ -51,17 +51,14 @@ textarea:focus {
     border: 3px solid #4B7A6A;
     background-color: #f9b677;
     
-
-select:focus {
-    background-color: #316154;
 }
 
 
 
+
 /* Styles for larger screens */
+
 @media screen and (min-width: 840px) {
-  .photo{
-    width: 40%;
-  }
+  .photo {width: 40%;}
 }
 
